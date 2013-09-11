@@ -11,12 +11,14 @@ It uses the following topology:
 While most Tic Tac Toe games uses the following topology:
 
 
-Client 1 (Server)  <--------> Client 2 (Client)
+              Client 1 (Server)  <--------> Client 2 (Client)
+
+
 =====
 
-@TODO FIX JPanel images (gifs)
+**@TODO FIX JPanel images (gifs)**
 
-Description : The images X.gif and O.gif aren't being visible for players when they click on them.
+**Description** : The images X.gif and O.gif aren't being visible for players when they click on them.
 
 
 
